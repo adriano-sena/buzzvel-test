@@ -1,0 +1,20 @@
+{
+    "name": "adriano-sena/buzzvel-test",
+    "description": "Project created for a technical test of an interview on Buzzvel",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AdrianoSena\\BuzzvelTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adriano-sena",
+            "email": "58452965+adriano-sena@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "php-coord/php-coord": "^4.5"
+    }
+}
