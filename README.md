@@ -8,8 +8,7 @@ This repository was created to delivery a package able to performs a HTTP reques
 ## Instalation 
 
 ```
-composer require 
-
+composer require adriano-sena/buzzvel-test
 ```
 ## Configuration 
 
