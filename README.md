@@ -7,13 +7,19 @@ This repository was created to delivery a package able to performs a HTTP reques
 
 ## Instalation 
 
+```
 composer require 
 
+```
 ## Configuration 
 
-For configuration just use the composer install command to get all the dependencies needed to run the package
+For configuration just use the composer install command to get all the dependencies needed to run the package. 
 
 ```
+composer install
+
+```
+
 
 ## Usage
 
