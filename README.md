@@ -1,4 +1,4 @@
-# Nome do produto
+# Buzzvel Test 
 > Repository created for technical testing on Buzzvel
 
 
@@ -38,7 +38,7 @@ If the $orderby parameter is not defined when calling the method, we’re
 expecting to get the list ordered by proximity.
 
 
-## Lauch History 
+## History 
 
 * v1.0.0
     * Initial version (olny the basic funtionality to get the formated hotels list)
